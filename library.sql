@@ -1,3 +1,5 @@
+-- language: sql
+
 /*
 
 FACTS FOR A LIBRARY DATABASE;
